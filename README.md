@@ -13,12 +13,12 @@ I'm currently a Student Learning .Net core and Flutter.
 4. Fetching me all the stages requred while publishing a Software/App.
 <br>
 
-## Get in touch
+## 💬Get in touch
 - Twitter: <a href="https://twitter.com/Dvlhorac_David">
 - Facebook: <a href="https://www.facebook.com/david.magar.773">
 - LinkedIn: <a href="https://www.linkedin.com/in/david-thapa-40527a194">
 <br>
 
-## Visitors Count 
+## Visitors Count 🤯
 
 ![VisitorCount](https://profile-counter.glitch.me/{David-Thapa}/count.svg)
