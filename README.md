@@ -14,9 +14,9 @@ I'm currently a Student Learning .Net core and Flutter.
 <br>
 
 ## 💬Get in touch
-- Twitter: <a href="https://twitter.com/Dvlhorac_David">https://twitter.com/Dvlhorac_David</a>
-- Facebook: <a href="https://www.facebook.com/david.magar.773">https://www.facebook.com/david.magar.773</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/david-thapa-40527a194">https://www.linkedin.com/in/david-thapa-40527a194</a>
+- Twitter: <a href="https://twitter.com/Dvlhorac_David" target="_blank">https://twitter.com/Dvlhorac_David</a>
+- Facebook: <a href="https://www.facebook.com/david.magar.773" target="_blank">https://www.facebook.com/david.magar.773</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/david-thapa-40527a194 " target="_blank">https://www.linkedin.com/in/david-thapa-40527a194</a>
 <br>
 
 ## Visitors Count 🤯
