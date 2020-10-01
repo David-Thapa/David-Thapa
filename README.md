@@ -7,10 +7,10 @@ I'm currently a Student Learning .Net core and Flutter.
 <br>
 
 ## 🗻Goal for 2020
-1. Creating software using .Net core.
-2. Creating Mobile App using Flutter.
-3. Mastering Object Oriented Programming.
-4. Fetching me all the stages requred while publishing a Software/App.
+1. Bulding Application using .Net core platform.
+2. Building Mobile Application using Flutter.
+3. Grasping advance concepts of Object Oriented Programming.
+4. Fetching me all the stages for publishing application.
 <br>
 
 ## 💬Get in touch
