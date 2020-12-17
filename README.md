@@ -1,16 +1,16 @@
 ***********************************
 ## Hi, I'm David 👋👨‍💻
 
-I'm currently a Student Learning .Net core and Flutter.
+I'm currently a Student Learning and Flutter.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
 ## 🗻Goal for 2020
-1. Bulding Application using .Net core platform.
-2. Building Mobile Application using Flutter.
-3. Grasping advance concepts of Object Oriented Programming.
-4. Fetching me all the stages for publishing application.
+1. Handling UI/UX Design.
+2. Leveling Up my problem solving skill.
+3. Learning Object Oriented Programming Concept.
+4. Upto date with Flutter.
 <br>
 
 ## 💬Get in touch
