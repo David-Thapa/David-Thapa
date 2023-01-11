@@ -16,7 +16,7 @@ Hi, I am David. I am Self Independent learner and Hardworking Individual. I Love
 
 ## 💬Get in touch
 - Twitter: [https://twitter.com/dav1dtmagar](https://twitter.com/dav1dtmagar)
-- Facebook: [https://www.facebook.com/david.magar.773](https://www.facebook.com/david.magar.773)
+- Facebook: [https://www.facebook.com/dav1dtmagar](https://www.facebook.com/dav1dtmagar)
 - LinkedIn: [https://www.linkedin.com/in/dav1dtmagar/](https://www.linkedin.com/in/dav1dtmagar/)
 <br>
 
