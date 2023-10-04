@@ -8,10 +8,10 @@ Hi, I am David. I am Self Independent learner and Hardworking Individual. I Love
 
 ## 🗻Goal for 2023
 1. Obtaining Machine Learning, Deep Learning key concept.
-2. Leveling Up my Data Science skills.
+2. Leveling Up my Machine Learning skills.
 3. Graudating from AI Fellowship 2023
 4. Connecting with different people in linkedin
-5. Finally, Landing a Intern in Data Science.
+5. Finally, Landing a Intern in Machine Learning.
 <br>
 
 ## 💬Get in touch
