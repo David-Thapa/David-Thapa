@@ -6,12 +6,12 @@ Hi, I am David. I am Self Independent learner and Hardworking Individual. I Love
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br>
 
-## 🗻Goal for 2023
-1. Obtaining Machine Learning, Deep Learning key concept.
-2. Leveling Up my Machine Learning skills.
-3. Graudating from AI Fellowship 2023
+## 🗻Goal for 2024
+1. Finding AI Interns
+2. Leveling Up my Machine Learning and Deep learning skills.
+3. Getting into Large Language Model
 4. Connecting with different people in linkedin
-5. Finally, Landing a Intern in Machine Learning.
+5. Continue Learning
 <br>
 
 ## 💬Get in touch
