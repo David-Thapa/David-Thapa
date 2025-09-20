@@ -7,7 +7,7 @@ Hi, I am David. I am Self Independent learner and Hardworking Individual. I Love
 <br>
 
 ## 🗻Goal for 2025
-1. Landing and AI Interns
+1. Landing an AI Interns
 2. Leveling Up my Machine Learning and Deep learning skills.
 3. Getting into Large Language Model and Computer Vision Model
 4. Connecting with different people in linkedin
