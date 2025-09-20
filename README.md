@@ -19,7 +19,3 @@ Hi, I am David. I am Self Independent learner and Hardworking Individual. I Love
 - Facebook: [https://www.facebook.com/dav1dtmagar](https://www.facebook.com/dav1dtmagar)
 - LinkedIn: [https://www.linkedin.com/in/dav1dtmagar/](https://www.linkedin.com/in/dav1dtmagar/)
 <br>
-
-## Visitors Count 🤯
-
-![VisitorCount](https://profile-counter.glitch.me/{David-Thapa}/count.svg)
